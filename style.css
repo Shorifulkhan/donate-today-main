@@ -82,6 +82,14 @@ h5{
 .mission-2 img{
     width: 30%;   
 }
+.helf-with{
+    width: 40%;
+    padding-left: 5%;
+    margin-top: 50px;
+}
+.helf-with img{
+        width: 80%;
+}
 
 .footer{
     background-color: indigo;
